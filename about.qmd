@@ -1,0 +1,22 @@
+---
+title: "About"
+image: profile.jpg
+about:
+  template: jolla
+  links:
+    - icon: twitter
+      text: Twitter
+      href: https://twitter.com
+    - icon: github
+      text: Github
+      href: https://github.com
+---
+
+Is writing dead?I am both exhilarated and terrified by the fact that AI models can write decent (to pretty good) short stories. As someone who had grand fantasies of being a world famous writer, despite never writing anything, showing no aptitude for writing, and spending no time on making this fantasy real, its been neat to play around with LLMs and see what they produce in the field of creative writing.
+
+So here is a place where I save stories that I found to be funny, interesting, or plain weird.
+
+I am **Alex Fisher**, and this is where I talk to myself.
+
+This site is built with **R** and **Quarto**.
+

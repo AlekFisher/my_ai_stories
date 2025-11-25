@@ -1,0 +1,59 @@
+---
+title: "The Hemingway Protocol"
+description: "A near-future satire where authors must prove their inefficiency to win awards."
+author: "Gemini & Alex Fisher"
+date: "2025-11-25"
+categories: [Satire, Sci-Fi, Meta-Fiction]
+image: cover.jpg
+---
+
+*The following story was generated to explore the concept of "Proof of Process" in a post-AI world.*
+
+***
+
+The finalists for the 2029 Pulitzer Prize for "Verified Biological Fiction" sat in a row of uncomfortable folding chairs, each looking suitably ravaged. To even qualify for the longlist, one had to look like they hadn’t slept in a fiscal quarter.
+
+Julian, the frontrunner, adjusted his tuxedo. It fit poorly, which was a point in his favor. He clutched his "Proof Packet"—a three-terabyte hard drive containing the biometric surveillance data of his last two years.
+
+"I hear the runner-up didn't pass the Keystroke Hesitation Audit," whispered the woman next to him. Her name was Mara. She had dark circles under her eyes that Julian suspected were tattooed on, a common trick for rookies.
+
+"Amateurs," Julian scoffed. "Probably typed too rhythmically. You have to vary the cadence. The algorithms look for the 'Staccato of Doubt.' If you don't pause for at least forty minutes over a semi-colon, are you even writing?"
+
+The Master of Ceremonies took the stage. He was an older man, a relic from the Before Times when people just read books without demanding to see the author’s cortisol charts.
+
+"Welcome," the MC said. "Tonight, we celebrate the Inefficient. The Slow. The tormented biological processors we call 'Authors.' We have analyzed the submission packets. We have scoured the metadata for the stench of silicon."
+
+He opened the golden envelope.
+
+"The winner, for his novel *The Scent of Burnt Toast*... is Julian Vane!"
+
+The crowd applauded politely. They didn't care about the book—it was a sprawling, incoherent mess about a man divorcing his toaster—but the *authenticity* was undeniable.
+
+Julian took the stage. The giant screen behind him flashed his "Verification Stats" for the audience to admire:
+
+* **Average Words Per Hour:** 14.
+* **Backspace Frequency:** 68%.
+* **Blood Alcohol Content (Peak Creative Hours):** 0.12%.
+* **Heart Rate Variability:** Consistent with panic attacks induced by minor plot holes.
+
+"Thank you," Julian said, his voice trembling perfectly. "This book broke me. I lost my wife. I gained forty pounds. I developed a psychosomatic limp. But I did it. I wrote every word with my own flawed, gelatinous brain."
+
+He held up the trophy—a bronze statue of a trash can filled with crumpled paper.
+
+Later that night, Julian returned to his apartment. It was pristine. There were no empty whiskey bottles. His wife, who hadn't left him, was asleep in the other room. He sat down at his desk, placed the trophy on a coaster, and opened his laptop.
+
+He typed a command into the terminal: `> Initiate Sequence: Sophomore Slump.`
+
+The screen flickered. A text prompt appeared:
+*“Subject: Novel #2. Parameters: Higher anxiety, lower word count. Simulate a mid-life crisis style pivot to poetry. Generate 14 months of erratic keystroke logs, browser history searching for 'symptoms of imposter syndrome,' and fake receipts for therapy sessions.”*
+
+The AI, a model named "Kafka-9," whirred into action.
+
+"Would you like me to generate the draft of the novel first?" the AI asked in text.
+
+Julian yawned, pouring himself a glass of sparkling water. "No, don't bother. Nobody actually reads the books anymore. Just generate the struggle. Make it look like I really suffered this time. Maybe throw in a simulated vitamin D deficiency."
+
+"Understood," the AI replied. "Generating authentic human misery. Estimated completion time: 3 seconds."
+
+Julian smiled, closed the laptop, and went to bed. It was exhausting work, pretending to be this incompetent.
+
